@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Karpovich_3lab", "Karpovich_3lab\Karpovich_3lab.vcxproj", "{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}.Debug|x64.ActiveCfg = Debug|x64
+		{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}.Debug|x64.Build.0 = Debug|x64
+		{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}.Debug|x86.Build.0 = Debug|Win32
+		{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}.Release|x64.ActiveCfg = Release|x64
+		{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}.Release|x64.Build.0 = Release|x64
+		{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}.Release|x86.ActiveCfg = Release|Win32
+		{C7A64B50-EE7B-4194-8B60-5F1E3AA07AAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83EA58C5-59CF-40A6-AF80-362EA9DE50BA}
+	EndGlobalSection
+EndGlobal

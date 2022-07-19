@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\1course\OAP\Karpovich_lab2\Karpovich_lab2\main.cpp(81,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\1course\OAP\Karpovich_lab2\Karpovich_lab2\main.cpp(83,17): warning C4305: инициализация: усечение из "double" в "float"
+D:\1course\OAP\Karpovich_lab2\Karpovich_lab2\main.cpp(83,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\1course\OAP\Karpovich_lab2\Karpovich_lab2\main.cpp(84,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Karpovich_lab2.vcxproj -> D:\1course\OAP\Karpovich_lab2\Debug\Karpovich_lab2.exe
